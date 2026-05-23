@@ -18,6 +18,10 @@ _To remove a link that was previously created_
 
 Youtube EDR-Redir V2: [https://youtu.be/mSywzuGsirU](https://youtu.be/mSywzuGsirU)
 
+## 🐦 Enjoying my work? Support the journey by following me on X
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/TwoSevenOneT?style=for-the-badge&logo=x&color=000)](https://x.com/TwoSevenOneT)
+
 ## Author:
 
 [Two Seven One Three](https://x.com/TwoSevenOneT)
